@@ -282,6 +282,7 @@ function addNewEvent() {
     loadEvents()
 }
 
+
 /*
 // let day = document.getElementById("new-date").value.toLocaleDateString("default", {day: "2-digit"});
 //     let month = document.getElementById("new-date").toLocaleDateString("default", {month: "short"}).value;

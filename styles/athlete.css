@@ -162,10 +162,11 @@ input {
 .btnNewEv {
     display: flex;
     margin-right: 20px;
+    padding-bottom: 10px
 }
 .btnNewEvent {
     margin: auto;
-    height: auto;
+    height: 50px;
 }
 
 .newEvents > label {
